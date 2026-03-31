@@ -8,8 +8,8 @@
 </p>
 <h3 align="center">📊 Stats</h1>
 	
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=amin-mag&show_icons=true&theme=ayu-mirage&hide_border=true" />
+<p align="center">
+  <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=amin-mag&show_icons=true&theme=ayu-mirage&hide_border=true" /> -->
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=amin-mag&theme=ayu-mirage&hide_border=true" />
 </p>
 
@@ -63,7 +63,7 @@
 
 <h3 align="center">🤙 Follow me around the web  </h1>
 <p align="center">
-   <a href="https://aminmag.ir" target="_blank"><img alt="Firefox" src="https://img.shields.io/badge/AminMAG-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"></a>
+   <a href="https://ghasvari.com" target="_blank"><img alt="Firefox" src="https://img.shields.io/badge/AminMAG-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"></a>
     <a href="https://github.com/amin-mag" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@amin--mag-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/m-amin-ghasvari-3ba496113/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://telegram.me/amin_mag" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-eeeee4?style=flat-square&logo=Telegram&logoColor=white"></a>
